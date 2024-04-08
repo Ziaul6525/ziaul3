@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+ul li{
+    padding: 0 10px;
+}
+#library{
+    padding-top: 23px;
+}
+#hero-profp{
+    padding-left: 105px;
+    padding-top: 23px;
+}
+.ptag p{
+    display: none;
+}
+.pt-1 a{
+    text-decoration: none;
+}
+.four-pic1{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.four-pic2{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.four-pic3{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.four-pic4{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
